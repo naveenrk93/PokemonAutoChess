@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://vcqp5bvmhhil"]
+
+[node name="World" type="Node2D"]
+
+[node name="StaticBody2D" type="StaticBody2D" parent="."]
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="StaticBody2D"]
+polygon = PackedVector2Array(2, 1, 43, 0, 38, 125, 40, 126, 187, 125, 179, 115, 172, 2, 172, 2, 280, 0, 275, 168, 275, 168, 1, 166)
+metadata/_edit_lock_ = true
