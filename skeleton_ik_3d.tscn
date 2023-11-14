@@ -1,0 +1,4 @@
+[gd_scene format=3 uid="uid://wg0ock144ybc"]
+
+[node name="SkeletonIK3D" type="SkeletonIK3D"]
+process_priority = 1
